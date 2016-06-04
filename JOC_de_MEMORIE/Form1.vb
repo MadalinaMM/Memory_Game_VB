@@ -1,4 +1,4 @@
-Imports System.IO
+﻿Imports System.IO
 Public Class Form1
     'declaratii variabile + liste + vectori 
     Dim nrst As New ArrayList()
