@@ -1,0 +1,22 @@
+C:\Users\Peep\documents\visual studio 2010\Projects\Qtex Memory Game\Qtex Memory Game\bin\Debug\Qtex Memory Game.exe
+C:\Users\Peep\documents\visual studio 2010\Projects\Qtex Memory Game\Qtex Memory Game\bin\Debug\Qtex Memory Game.pdb
+C:\Users\Peep\documents\visual studio 2010\Projects\Qtex Memory Game\Qtex Memory Game\bin\Debug\Qtex Memory Game.xml
+C:\Users\Peep\documents\visual studio 2010\Projects\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Peep\documents\visual studio 2010\Projects\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\Memory_Game.Form1.resources
+C:\Users\Peep\documents\visual studio 2010\Projects\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\Memory_Game.Resources.resources
+C:\Users\Peep\documents\visual studio 2010\Projects\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Peep\documents\visual studio 2010\Projects\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Peep\documents\visual studio 2010\Projects\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\Qtex Memory Game.exe
+C:\Users\Peep\documents\visual studio 2010\Projects\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\Qtex Memory Game.xml
+C:\Users\Peep\documents\visual studio 2010\Projects\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\Qtex Memory Game.pdb
+C:\Users\Peep\Documents\Visual Studio 2010\Projects\Qtex Memory Game\Qtex Memory Game\bin\Debug\Qtex Memory Game.exe.config
+C:\Users\Madalina\Desktop\Qtex Memory Game\Qtex Memory Game\bin\Debug\Qtex Memory Game.exe.config
+C:\Users\Madalina\Desktop\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\Qtex Memory Game.exe
+C:\Users\Madalina\Desktop\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\Qtex Memory Game.xml
+C:\Users\Madalina\Desktop\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\Qtex Memory Game.pdb
+C:\Users\Madalina\Desktop\Qtex Memory Game\Qtex Memory Game\bin\Debug\Qtex Memory Game.exe
+C:\Users\Madalina\Desktop\Qtex Memory Game\Qtex Memory Game\bin\Debug\Qtex Memory Game.pdb
+C:\Users\Madalina\Desktop\Qtex Memory Game\Qtex Memory Game\bin\Debug\Qtex Memory Game.xml
+C:\Users\Madalina\Desktop\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\Memory_Game.Form1.resources
+C:\Users\Madalina\Desktop\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\Memory_Game.Resources.resources
+C:\Users\Madalina\Desktop\Qtex Memory Game\Qtex Memory Game\obj\x86\Debug\Qtex Memory Game.vbproj.GenerateResource.Cache

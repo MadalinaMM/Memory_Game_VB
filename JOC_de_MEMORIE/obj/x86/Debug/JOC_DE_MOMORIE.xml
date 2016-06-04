@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JOC_DE_MOMORIE
+</name>
+</assembly>
+<members>
+<member name="P:JOC_de_MEMORIE.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources._exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.bc1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.bc10">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.bc2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.bc3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.bc4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.bc5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.bc6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.bc7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.bc8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.bc9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.buttonbg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.buttonbgs">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.cardbg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.deck2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.deck3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.deck4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.gbar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.minbutton">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.sound_off_button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.sound_on_button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.ubar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JOC_de_MEMORIE.My.Resources.Resources.upbar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:JOC_de_MEMORIE.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

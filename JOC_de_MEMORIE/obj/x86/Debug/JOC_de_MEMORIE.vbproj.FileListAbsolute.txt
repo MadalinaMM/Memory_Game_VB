@@ -1,0 +1,10 @@
+C:\Users\Madalina\Desktop\JOC_de_MEMORIE\JOC_de_MEMORIE\obj\x86\Debug\JOC_de_MEMORIE.vbproj.GenerateResource.Cache
+C:\Users\Madalina\Desktop\JOC_de_MEMORIE\JOC_de_MEMORIE\bin\Debug\JOC_DE_MOMORIE.exe.config
+C:\Users\Madalina\Desktop\JOC_de_MEMORIE\JOC_de_MEMORIE\bin\Debug\JOC_DE_MOMORIE.exe
+C:\Users\Madalina\Desktop\JOC_de_MEMORIE\JOC_de_MEMORIE\bin\Debug\JOC_DE_MOMORIE.pdb
+C:\Users\Madalina\Desktop\JOC_de_MEMORIE\JOC_de_MEMORIE\bin\Debug\JOC_DE_MOMORIE.xml
+C:\Users\Madalina\Desktop\JOC_de_MEMORIE\JOC_de_MEMORIE\obj\x86\Debug\JOC_de_MEMORIE.Form1.resources
+C:\Users\Madalina\Desktop\JOC_de_MEMORIE\JOC_de_MEMORIE\obj\x86\Debug\JOC_de_MEMORIE.Resources.resources
+C:\Users\Madalina\Desktop\JOC_de_MEMORIE\JOC_de_MEMORIE\obj\x86\Debug\JOC_DE_MOMORIE.exe
+C:\Users\Madalina\Desktop\JOC_de_MEMORIE\JOC_de_MEMORIE\obj\x86\Debug\JOC_DE_MOMORIE.xml
+C:\Users\Madalina\Desktop\JOC_de_MEMORIE\JOC_de_MEMORIE\obj\x86\Debug\JOC_DE_MOMORIE.pdb
